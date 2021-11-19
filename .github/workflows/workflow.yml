@@ -1,4 +1,4 @@
-steps:
+steps:@v2
 - uses: actions/checkout@master
 - uses: codecov/codecov-action@v2
   with:
